@@ -42,7 +42,7 @@ div{
 }
 
 .sale {
-  color: red;
+  color: rgb(0, 255, 64);
   font-weight: bold;
 }
 .product.hit {
